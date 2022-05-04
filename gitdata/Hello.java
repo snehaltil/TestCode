@@ -9,7 +9,7 @@ public class Hello {
 		String msg = sc.next();
 		System.out.println(msg);
 		System.out.println("Welcome to Software Testing...!!!!");
-		
+		System.out.println("Welcome to Software Automation...!!!!");
 
 	}
 
